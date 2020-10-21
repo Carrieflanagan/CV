@@ -1,0 +1,23 @@
+
+  body {
+    background-color: #effffb;
+    color: black;
+  }
+
+  hr {
+    border: none;
+    border-bottom: 8px dotted #cbf1f5;
+    width: 5%
+    }
+h1 {
+text-transform: uppercase;
+  color: #F0134D;
+  text-shadow: 3px 3px #05DFD7;
+}
+h3 {
+  text-transform: uppercase;
+  color: #05DFD7;
+}
+img {
+  box-shadow: 8px 8px #cbf1f5;
+}
